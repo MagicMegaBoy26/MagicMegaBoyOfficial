@@ -1,0 +1,8 @@
+{
+  "name": "Downed on Q + Team Revive",
+  "version": "1.0.0",
+  "description": "Press Q to enter the downed state without dying and have same-team bots attempt a revive.",
+  "author": "MagicMegaBoyOfficial",
+  "target": "Saints Row: The Third (Classic)",
+  "entry": "main.lua"
+}

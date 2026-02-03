@@ -1,0 +1,8 @@
+{
+  "name": "Disable Regen + Infinite Health",
+  "version": "1.0.0",
+  "description": "Disables health regeneration and infinite health so damage applies normally.",
+  "author": "MagicMegaBoyOfficial",
+  "target": "Saints Row: The Third (Classic)",
+  "entry": "main.lua"
+}
